@@ -1,0 +1,9 @@
+Clear cell renal cell carcinoma
+Papillary renal cell carcinoma
+Chromophobe renal cell carcinoma
+Microvascular density
+Microvascular area
+Morphometry
+CD31
+CD34
+Renal vascular patterns

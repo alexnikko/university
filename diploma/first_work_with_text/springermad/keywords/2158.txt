@@ -1,0 +1,3 @@
+MAPT Gene
+MAPT Locus
+MAPT mRNA

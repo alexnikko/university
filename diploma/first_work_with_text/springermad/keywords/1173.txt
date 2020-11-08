@@ -1,0 +1,6 @@
+STING
+IRF3
+Apoptosis
+Pyroptosis
+Necroptosis
+Autophagy

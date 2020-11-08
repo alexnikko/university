@@ -1,0 +1,6 @@
+Population pharmacokinetic/pharmacodynamic modeling
+Inflammatory bowel disease
+Discrete data
+Bounded outcome scores
+NONMEM
+Golimumab

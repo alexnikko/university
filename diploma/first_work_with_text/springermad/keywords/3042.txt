@@ -1,0 +1,6 @@
+Lung cancer
+Body size
+Height
+Weight
+BMI
+Survival

@@ -1,0 +1,1 @@
+In studies of diagnostic performance that fail to detect a statistically significant difference between compared techniques, investigators often declare evidence of equivalence or similarity without having actually tested that assertion due to incorrect methodology or insufficient statistical power.

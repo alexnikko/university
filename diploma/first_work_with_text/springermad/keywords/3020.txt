@@ -1,0 +1,6 @@
+Small cell lung cancer (SCLC)
+Neutrophil/lymphocyte ratio (NLR)
+PET–CT
+Metabolic tumor volume (MTV)
+Whole body metabolic tumor volume (WBMTV)
+Whole body total lesion glycolysis (WBTLG)

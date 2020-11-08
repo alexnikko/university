@@ -1,0 +1,5 @@
+Mechanical Power
+Gear Train
+Joint Power
+Negative Work
+Reaction Torque

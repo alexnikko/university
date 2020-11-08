@@ -1,0 +1,6 @@
+Syncope
+ICD-9
+Transient loss of consciousness
+Sensitivity
+Specificity
+Administrative database

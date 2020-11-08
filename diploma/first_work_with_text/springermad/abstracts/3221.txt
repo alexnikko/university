@@ -1,0 +1,1 @@
+This study describes the validation of a near infrared spectroscopic method for monitoring a continuous manufacturing system. The achievement of this goal requires determining the near infrared (NIR) method’s accuracy, precision, obtaining an estimate of the sample volume analyzed, and the frequency with which measurements should be obtained.

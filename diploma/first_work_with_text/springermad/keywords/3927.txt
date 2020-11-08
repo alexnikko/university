@@ -1,0 +1,6 @@
+Hidden Markov model
+Diffusion model
+Stochastic differential equation
+Mixed effects model
+Epilepsy
+Pharmacokinetics

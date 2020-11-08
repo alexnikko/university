@@ -1,0 +1,4 @@
+Electroencephalogram
+Fast Fourier transform
+Sleep scoring
+Waveform recognition

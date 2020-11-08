@@ -1,0 +1,5 @@
+Gastric cancer
+miR-302a/b/c/d
+Clinicopathological feature
+Disease-free survival
+Overall survival

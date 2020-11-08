@@ -1,0 +1,7 @@
+Reinforcement
+response sequence
+serial behaviour
+variability
+motor control
+autocorrelations
+behavioural units

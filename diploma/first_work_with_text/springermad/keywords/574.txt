@@ -1,0 +1,6 @@
+ATTR amyloidosis
+Dysautonomia
+Autonomic dysfunction
+Autonomic symptoms
+Orthostatic hypotension
+Familial amyloid polyneuropathy

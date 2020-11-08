@@ -1,0 +1,7 @@
+Stroke
+Hand
+Finger
+Dexterity
+Force
+Finger tapping
+Independence of finger movements

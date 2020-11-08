@@ -1,0 +1,1 @@
+The purpose of this study is to use ECG-gated SPECT MPI to detect the latest contracting viable left ventricular (LV) segments to help guide the LV probe placement used in CRT therapy and to validate segment selection against the visual integration method by experts.

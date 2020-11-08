@@ -1,0 +1,5 @@
+STAT3 rs4769793
+Lung cancer
+Susceptibility
+Platinum-based chemotherapy
+Prognosis

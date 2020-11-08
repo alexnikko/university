@@ -1,0 +1,10 @@
+Octanol-to-water partition coefficient
+Molecular size
+Cationic biomolecule
+Anionic biomolecule
+Cationoneutral biomolecule
+Polyneutral biomolecule
+Molecular charge
+Cations
+Anions
+Molecular toxicology

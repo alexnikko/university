@@ -1,0 +1,5 @@
+Heart rate
+QT/QTc
+Population PK–PD modeling
+NLME
+Nonlinear rate-dependency

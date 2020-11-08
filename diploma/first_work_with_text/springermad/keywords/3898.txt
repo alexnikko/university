@@ -1,0 +1,5 @@
+Bioequivalence
+Highly variable drugs
+Reference-scaled average bioequivalence
+Regulatory constants
+Type I error

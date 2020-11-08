@@ -1,0 +1,4 @@
+Continuous manufacturing
+Twin-screw wet-granulation
+Continuous fluid-bed drying
+Variable rate control strategy

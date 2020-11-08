@@ -1,0 +1,8 @@
+Physiologically-based pharmacokinetic
+Antibiotic
+Modeling
+Bacterial infection
+Pharmacokinetic-pharmacodynamic
+Fluoroquinolone
+Informative priors
+NONMEM

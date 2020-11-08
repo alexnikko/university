@@ -1,0 +1,13 @@
+Antibodies against Liver Cytosol 1 Antigen (anti-LC1)
+Antibodies against Soluble Liver Antigens or Liver Pancreas (anti-SLA/LP)
+Antinuclear Antibodies (ANA)
+Antineutrophil Cytoplasmic Autoantibodies (ANCA)
+Autoimmune Hepatitis
+Cytochrome P450 2D6
+Cytochrome P450 2A6
+Cytochrome P450 1A2
+Hepatitis C
+Hepatitis D
+Liver-Kidney Microsomal Autoantibodies (anti-LKM)
+Liver Microsomal Autoantibodies (anti-LM)
+Smooth Muscle Autoantibodies (SMA)

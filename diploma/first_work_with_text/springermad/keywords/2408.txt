@@ -1,0 +1,5 @@
+Fuzzy Rule
+Fuzzy Inference System
+Input Event
+Homeostatic State
+Context Input

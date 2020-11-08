@@ -1,0 +1,2 @@
+
+The aim of this work was to develop a simple computer-based sleep-scoring algorithm to detect the three vigilance states—rapid eye movement (REM) sleep, non-REM (NREM) sleep, and wakefulness—using the entire frequency domain with relative thresholds.

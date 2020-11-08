@@ -1,0 +1,5 @@
+Oral administration
+Model selection
+Data fitting
+Inverse Gaussian function
+Drug absorption

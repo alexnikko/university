@@ -1,0 +1,7 @@
+Golden step
+Self-navigation
+Self-gating
+Motion tracking
+Pseudo-projections
+Cine imaging
+Dark flow artifacts

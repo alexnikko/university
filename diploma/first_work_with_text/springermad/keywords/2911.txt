@@ -1,0 +1,9 @@
+Gynecological malignancy
+Cervix
+Endometrium
+Ovary
+Metastasis
+Brain
+Lung
+Liver
+Survival

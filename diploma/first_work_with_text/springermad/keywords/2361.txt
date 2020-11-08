@@ -1,0 +1,7 @@
+Duchenne
+Arm support
+sEMG control
+Force control
+Stiffness compensation
+Control interface
+Assistive device

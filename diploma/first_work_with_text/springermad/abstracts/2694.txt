@@ -1,0 +1,1 @@
+The tumor-expressed CD73 ectonucleotidase generates immune tolerance and promotes invasiveness via adenosine production from degradation of AMP. While anti-CD73 blockade treatment is a promising tool in cancer immunotherapy, a characterization of CD73 expression in human hepatobiliopancreatic system is lacking.

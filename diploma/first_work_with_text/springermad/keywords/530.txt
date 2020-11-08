@@ -1,0 +1,5 @@
+Cardiovascular Magnetic Resonance
+Acceleration Factor
+Left Ventricular Cavity
+Left Ventricular Parameter
+Left Ventricular Functional Parameter

@@ -1,0 +1,4 @@
+Barometric pressure
+Temperature
+Stroke
+Hospitalization

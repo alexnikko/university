@@ -1,0 +1,10 @@
+Triage
+Microarray
+RNA sequencing
+CBC
+Complete blood count
+PCR
+NLR
+Neutrophil-lymphocyte ratio
+MLR
+Monocyte-lymphocyte ratio

@@ -1,0 +1,4 @@
+Intended movements
+Incidental movements
+Speed variability
+Stochastic rule

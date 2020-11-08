@@ -1,0 +1,6 @@
+SPECT-MPI
+perfusion defects
+cardiovascular death
+myocardial infarction
+chronic kidney disease
+risk reclassification

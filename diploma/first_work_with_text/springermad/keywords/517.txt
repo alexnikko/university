@@ -1,0 +1,4 @@
+ECG triggering
+Congenital heart disease
+Blood flow quantification
+Vectorcardiography (VCG)

@@ -1,0 +1,5 @@
+Pharmacokinetics
+Pharmacodynamics
+Biopharmaceutics
+Bioequivalence
+Fractal kinetics

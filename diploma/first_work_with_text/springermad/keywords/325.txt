@@ -1,0 +1,5 @@
+Shear Rate
+Abciximab
+Platelet Adhesion
+Relative Adhesion
+Absolute Fluorescence

@@ -1,0 +1,1 @@
+Sequence optimization in neonates might improve detection sensitivity of abnormalities for a variety of conditions. However this has been historically challenging because tissue properties such as the longitudinal relaxation time and proton density differ significantly between neonates and adults.

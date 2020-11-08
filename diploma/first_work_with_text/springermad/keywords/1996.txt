@@ -1,0 +1,11 @@
+Quantitative Electroencephalography (EEG)
+Adults
+Power
+Attention-deficit/hyperactivity disorder (ADHD)
+Resting state
+Alpha
+Beta
+Theta
+Intra-individual variability
+Eyes open
+Eyes closed

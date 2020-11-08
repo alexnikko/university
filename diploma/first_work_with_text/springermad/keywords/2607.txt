@@ -1,0 +1,5 @@
+Clinical pathology
+Toxicology
+Hematology
+Biochemistry
+Urinalysis

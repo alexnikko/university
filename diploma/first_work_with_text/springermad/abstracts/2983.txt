@@ -1,0 +1,1 @@
+We investigated the microarray data GSE42352 to identify genes that can be used as prognosis factors in osteosarcoma.

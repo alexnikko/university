@@ -1,0 +1,5 @@
+Transcranial Doppler
+Gait accelerometry
+Cerebral blood flow velocity
+Walking
+Signal features

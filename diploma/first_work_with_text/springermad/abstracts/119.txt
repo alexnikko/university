@@ -1,0 +1,2 @@
+
+Cadmium-zinc-telluride (CZT) cameras allow to decrease significantly the acquisition time of myocardial perfusion imaging (MPI), but the duration of the examination is still long. Therefore, this study was performed to test the feasibility of early imaging following injection of Tc-99 m sestamibi using a CZT camera.

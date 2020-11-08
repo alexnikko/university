@@ -1,0 +1,6 @@
+Biopsy
+MSK
+INR
+CBC
+Laboratory test
+Bleeding

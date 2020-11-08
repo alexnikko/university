@@ -1,0 +1,6 @@
+MPC
+PID
+Feedforward control
+Feedback control
+Tablet press
+Continuous pharmaceutical manufacturing

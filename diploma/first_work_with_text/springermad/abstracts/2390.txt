@@ -1,0 +1,1 @@
+Although robot therapy is progressively becoming an accepted method of treatment for stroke survivors, few studies have investigated how to adapt the robot/subject interaction forces in an automatic way. The paper is a feasibility study of a novel self-adaptive robot controller to be applied with continuous tracking movements.

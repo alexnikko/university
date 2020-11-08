@@ -1,0 +1,5 @@
+Mahalanobis distance
+distance ratio
+PCA
+Tucker3
+graph invariant

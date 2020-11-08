@@ -1,0 +1,5 @@
+Wave Analysis
+Automate Classification
+Recording Length
+Manual Classification
+Wave Duration

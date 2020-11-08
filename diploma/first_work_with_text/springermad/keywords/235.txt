@@ -1,0 +1,7 @@
+PLA2G7
+Coronary heart disease
+SNP
+Interaction
+Smoking
+Drinking
+Haplotype

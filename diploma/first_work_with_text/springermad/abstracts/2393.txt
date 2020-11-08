@@ -1,0 +1,1 @@
+Instead of hyper-reflexia as sole paradigm, post-stroke movement disorders are currently considered the result of a complex interplay between neuronal and muscular properties, modified by level of activity. We used a closed loop system identification technique to quantify individual contributors to wrist joint stiffness during an active posture task.

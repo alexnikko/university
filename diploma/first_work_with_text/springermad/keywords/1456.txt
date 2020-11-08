@@ -1,0 +1,4 @@
+statins
+C6 glioma
+ERK
+Akt

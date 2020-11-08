@@ -1,0 +1,5 @@
+Additional Absorption
+Antibody Concentration
+Geometric Mean Titer
+Antibody Avidity
+High Avidity Antibody

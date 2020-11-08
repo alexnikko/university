@@ -1,0 +1,5 @@
+Positive Predictive Value
+Cardiac Magnetic Resonance
+Leave Ventricular Hypertrophy
+Negative Predictive Value
+Leave Ventricular Systolic Dysfunction

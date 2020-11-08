@@ -1,0 +1,5 @@
+Myocardial perfusion imaging
+gated SPECT
+iterative reconstruction
+quarter-time scan
+patient dose

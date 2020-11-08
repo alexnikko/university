@@ -1,0 +1,1 @@
+The availability of more advanced technology like hypo-fractionation has the potential of being the new standard of care in breast cancer. This study evaluates whether 3DCRT with a field-in-field technique (FIF) and a simultaneous integrated boost (SIB) could provide a dosimetrically comparable plan delivered to VMAT or IMRT.

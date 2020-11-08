@@ -1,0 +1,4 @@
+Heart failure stage classification
+Speckle-tracking strain
+Global longitudinal strain
+Echocardiography

@@ -1,0 +1,1 @@
+It is still technically difficult to collect high purity cancer cells from tumor tissues, which contain noncancerous cells. We hypothesized that xenograft models of NOG mice expressing enhanced green fluorescent protein (eGFP), referred to as NOG-EGFP mice, may be useful for obtaining such high purity cancer cells for detailed molecular and cellular analyses.

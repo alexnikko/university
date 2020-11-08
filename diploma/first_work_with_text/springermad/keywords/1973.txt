@@ -1,0 +1,5 @@
+ADHD
+Children/adults
+Objective assessment
+Classification
+Support vector machines

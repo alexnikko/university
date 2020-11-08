@@ -1,0 +1,6 @@
+Kidney
+Ewing sarcoma
+Histology
+Immunohistochemistry
+Cytogenetics
+Clinical outcome
