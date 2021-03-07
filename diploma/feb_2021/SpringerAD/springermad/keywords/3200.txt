@@ -1,0 +1,6 @@
+Pharmaceutical
+Capsule
+X-ray
+Image analysis
+Chemometrics
+Agglomeration

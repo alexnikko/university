@@ -1,0 +1,4 @@
+fMRI
+Deception
+Multivariate pattern analysis
+Functional connectivity

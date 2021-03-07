@@ -1,0 +1,5 @@
+Bayesian
+Two-state model
+Negative Binomial
+Exacerbations
+COPD

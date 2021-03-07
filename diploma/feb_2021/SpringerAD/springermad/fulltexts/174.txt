@@ -1,0 +1,142 @@
+Introduction
+For a long time, the right ventricle (RV) was considered of little relevance and neglected. The RV has regained attention only in the past few decades after recognition of its important role in various physiological and pathological conditions [ ]. RV function has been shown to be a predictor of outcome in patients affected by cardiovascular disease [ ], congenital heart disease, valvular heart disease and heart failure [ ]. Although there are many ways to evaluate RV systolic function, echocardiography is the modality of choice in clinical practice. Recent guidelines have recommended the assessment of RV systolic function to be part of the standard echocardiography examination [ ]. However, because of complex geometry, assessment of RV systolic function by echocardiography, even nowadays, is still challenging and many physicians depend on visual assessment for evaluation [ ]. Various echocardiographic methods have been developed to evaluate RV systolic function; however, some of them are recommended for use in clinical practice while others are still considered research tools or have not yet been recommended. Because each method has limitations, guidelines recommend using at least two RV systolic function echocardiographic methods. In this review article, we discuss all echocardiographic evaluation methods for RV systolic function and show their advantages, limitations, abnormality thresholds and recommendations depending on the most recent American Society of Echocardiography (ASE) and European Association of Cardiovascular Imaging (EACVI) 2015 recommendations.
+There are many ways to classify RV systolic function evaluation methods depending on their recommendation, clinical use, echocardiographic section or echocardiographic technique. In this review, we classify RV systolic function evaluation methods into four groups: 1. Standard methods include fractional area change (FAC), tricuspid annular plane systolic excursion (TAPSE) and pulsed tissue Doppler-derived S′ wave velocity (RV S′). 2. Global RV function methods include pulsed Doppler right ventricular index of myocardial performance (pulsed Doppler RIMP), tissue Doppler RIMP and RV d p /d t . 3. Three-dimensional (3D) echo-derived methods include RV 3D ejection fraction (RV 3D EF). 4. Research methods include right ventricular outflow tract fractional shortening (RVOT-FS), right ventricular outflow tract systolic excursion (RVOT_SE), color-coded tissue Doppler-derived S′wave velocity (color-coded RV S′), RV two-dimensional (2D) EF (RV 2D EF), right ventricular isovolumic myocardial acceleration (RV IVA), RV strain and strain rate.
+Standard methods
+FAC
+FAC is calculated by the formula: FAC = (RV end diastolic area − RV end systolic area)/end diastolic area × 100. RV area is measured at the end of diastole and the end of systole by tracing endocardial borders beneath trabeculations and papillary muscles from the annulus, along the free wall to the apex, and then back to the annulus, along the interventricular septum (Fig. 1 ). It is important to ensure that the entire RV is contained in the imaging sector during both systole and diastole [ ]. Fig. 1 Fractional area change (FAC) measurement by tracing endocardial borders from the four-chamber view at the end of diastole ( a ) and the end of systole ( b ). FAC = (16.5 − 8.5/16.5) × 100 = 48 %
+Advantages
+FAC estimates global RV systolic function (reflects both longitudinal and radial components of RV contraction) [ ]. It correlates well with RV EF measured by magnetic resonance imaging (MRI) [ ]. FAC was found to be an independent predictor of heart failure and mortality after myocardial infarction [ ].
+Limitations
+FAC neglects the contribution of RVOT to overall RV systolic function, depends on optimal image quality, requires prolonged image analysis and has fair inter-observer reproducibility [ , ].
+Abnormality threshold
+FAC <35 % indicates RV systolic dysfunction [ ].
+Recommendations
+FAC is one of the recommended methods to evaluate RV systolic function [ ].
+TAPSE
+TAPSE is measured in the four-chamber view using M-mode echocardiography at the lateral tricuspid annulus. The greater the excursion in systole, the better the RV systolic function (Fig. 2 ). Fig. 2 Tricuspid annular plane systolic excursion (TAPSE) measurement using M-mode echocardiography at the lateral tricuspid annulus from the four-chamber view. TAPSE = 2.9 cm
+Advantages
+TAPSE is easy to measure, does not require prolonged image analysis and is less dependent on image quality. Although TAPSE reflects RV longitudinal function, it has good correlation with RV global systolic function parameters, such as radionuclide-derived RV EF [ ] and FAC [ ]. TAPSE has prognostic value in chronic heart failure and pulmonary hypertension patients [ ].
+Limitations
+TAPSE is angle-dependent so it may over- or underestimate RV function because of cardiac translation [ , ]. TAPSE may be load-dependent [ ]. TAPSE is not fully representative of RV global function after cardiac surgery [ ].
+Abnormality threshold
+ASE and EACVI 2015 recommendations changed the abnormality threshold for TAPSE to <17 mm (instead of 16 mm in previous recommendations) [ ]. Thus, TAPSE <17 mm is highly suggestive of RV systolic dysfunction.
+Recommendations
+TAPSE should be used routinely as a simple method of estimating RV function [ ].
+RV S′
+RV S′ is measured in the four-chamber view with sample volume placed on the lateral tricuspid annulus to measure peak tricuspid annulus systolic velocity. Care should be taken to obtain an ultrasound beam parallel to the direction of tricuspid annular motion (Fig. 3 ). Fig. 3 Pulsed tissue Doppler derived S′ wave velocity (RV S′) measurement by placing the sample volume on the lateral tricuspid annulus from the four-chamber view. RV S′ = 20.4 cm/s
+Advantages
+RV S′ is an easy to measure and reproducible method. It has good correlation with radionuclide-derived RV EF. RV S′ is available on all modern ultrasound equipment and does not require additional software. It has prognostic value in chronic heart failure and pulmonary embolism patients [ ].
+Limitations
+RV S′ is angle-dependent and not fully representative of RV global function particularly after thoracotomy, pulmonary thromboendarterectomy and heart transplantation [ ]. The RV S′ technique assumes that the function of a single segment represents the entire RV function, which is not true in conditions such as RV infarction or pulmonary embolism [ ].
+Abnormality threshold
+ASE and EACVI 2015 recommendations changed the abnormality threshold for RV S′ to <9.5 cm/s (instead of 10 cm/s in previous recommendations) [ ]. Thus, RV S′ <9.5 cm/s is suggestive of RV systolic dysfunction.
+Recommendations
+RV S′ is a simple and reproducible measure to assess basal RV free wall function and should be used in assessment of RV function [ ].
+Global RV function methods
+Pulsed Doppler RIMP
+Pulsed Doppler RIMP, also known as MPI (myocardial performance index) or Tei index, is an index of global RV performance. Pulsed Doppler RIMP is calculated using the formula: [(tricuspid valve closure to opening time − ejection time)/ejection time].
+Pulsed Doppler RIMP needs at least two different cardiac beats to measure the time periods, unlike the left heart where these periods can be measured during one cardiac beat (by aligning the mitral and the aortic valves in the same view) [ ].
+Advantages
+Pulsed Doppler RIMP has prognostic value in patients with pulmonary hypertension and is not significantly affected by heart rate [ ]. It avoids the limitations of complex RV geometry.
+Limitations
+It is important to ensure that the nonconsecutive beats, that are used to calculate pulsed Doppler RIMP, have similar RR intervals. Pulsed Doppler RIMP can be falsely low in elevated RA pressure conditions, e.g., RV infarction, which shortens the isovolumic relaxation time [ , ].
+Abnormality threshold
+ASE and EACVI 2015 recommendations changed the abnormality threshold for pulsed Doppler RIMP to >0.43 (instead of 0.40 in previous recommendations) [ ]. Thus, pulsed Doppler RIMP >0.43 is highly suggestive of RV systolic dysfunction.
+Recommendations
+Pulsed Doppler RIMP may be used for initial and serial measurements as an estimate of RV function to complement other quantitative and nonquantitative measurements. It should not be used as the sole quantitative method for evaluation of RV function and should not be used with irregular heart rates [ ].
+Tissue Doppler RIMP
+Tissue Doppler RIMP is an index of global RV performance. It is calculated using the formula: [(isovolumic relaxation time + isovolumic contraction time)/ejection time] or [(tricuspid valve closure to opening time − ejection time)/ejection time].
+Advantages
+Tissue Doppler RIMP is not significantly affected by heart rate [ ]. It avoids the limitations of complex RV geometry. Tissue Doppler RIMP does not require similar RR intervals, unlike pulsed Doppler RIMP, because all intervals are measured in one beat.
+Limitations
+Tissue Doppler RIMP can be falsely low in elevated RA pressure conditions [ , ].
+Abnormality threshold
+ASE and EACVI 2015 recommendations changed the abnormality threshold for tissue Doppler RIMP to >0.54 (instead of 0.55 in previous recommendations) [ ]. Thus, tissue Doppler RIMP >0.54 is highly suggestive of RV systolic dysfunction.
+Recommendations
+Tissue Doppler RIMP may be used for initial and serial measurements as an estimate of RV function to complement other quantitative and nonquantitative measurements. It should not be used as the sole quantitative method for evaluation of RV function and should not be used with irregular heart rates [ ].
+RV dp/dt
+RV d p /d t is commonly calculated by measuring the time required for the tricuspid regurgitation (TR) jet to increase from velocity 1–2 m/s. By using the simplified Bernoulli equation, this velocity increase represents an increase in pressure of 12 mmHg. Therefore, the RV d p /d t is calculated as 12 mmHg (d p ) divided by this time in seconds (d t ).
+The time from 1−2 m/s is commonly used to calculate RV d p /d t ; however, the best correlation between RV d p /d t and invasive measurements is found using the time for the TR velocity to increase from 0.5−2 m/s. In this case d p /d t is calculated as 15 mmHg (d p ) divided by this time in seconds (d t ) [ , ].
+Advantages
+RV d p /d t is a simple technique and avoids the limitations of complex RV geometry.
+Limitations
+Data regarding RV d p /d t are limited. RV d p /d t is load-dependent and less accurate in severe TR and elevated RA pressure [ , ].
+Abnormality threshold
+ASE and EACVI 2015 recommendations do not mentioned RV d p /d t; however, previous recommendations define RV d p /d t <approximately 400 mmHg/s as likely abnormal [ ].
+Recommendations
+Because of the lack of data in normal subjects, RV d p /d t cannot be recommended for routine uses. It can be considered in subjects with suspected RV dysfunction [ ].
+3D echo-derived methods
+RV 3D EF
+RV 3D EF is calculated by the formula: 100 × (end diastolic volume − end systolic volume)/end diastolic volume. Methods that are used to calculate RV volumes by 3D techniques include the method of disks approach and most recently the volumetric semiautomated border detection approach, which is now the recommended method for the assessment of RV 3D EF in ASE and EACVI 2015 recommendations [ , ].
+Advantages
+RV 3D EF represents global RV systolic function and includes RVOT contribution to overall RV function. RV 3D EF has been shown to be correlated with RV EF measured by MRI [ ]. RV 3D EF may have clinical value after cardiac surgery when longitudinal RV function indices, like TAPSE and RV S′, do not usually represent global RV performance [ ].
+Limitations
+RV 3D EF is load dependent and affected by poor acoustic images and irregular rhythms [ ]. It requires experience and offline analysis. RV 3D-derived volumes tend to underestimate RV MRI-derived volumes [ ].
+Abnormality threshold
+ASE and EACVI 2015 recommendations changed the abnormality threshold for RV 3D EF to <45 % (instead of 44 % in previous recommendations). RV 3D EF <45 % usually reflects abnormal RV systolic function, although laboratories may choose to refer to age- and gender-specific values.
+Recommendations
+In laboratories with appropriate 3D platforms and experience, RV 3D EF should be considered as a method of quantifying RV systolic function, with the above-mentioned limitations.
+Research methods
+RVOT_FS
+RVOT_FS is calculated by the formula: 100 × (RVOT diastolic diameter − RVOT systolic diameter)/RVOT diastolic diameter. These diameters are measured using M-mode echocardiography from the parasternal short-axis view at the level of the aortic valve. RVOT_FS is correlated with RV longitudinal function and pulmonary pressure [ ].
+Advantages
+RVOT_FS is a simple technique and has prognostic value in chronic heart failure [ ].
+Limitations
+Data regarding RVOT_FS are limited. When measuring RVOT_FS, there are no defined landmarks for aligning the parasternal short-axis view; thus, an oblique plane produces extremely inaccurate measurements. RVOT_FS is affected by left ventricle systolic function because the aorta is pushed anteriorly during systole in patients with good LV function, contributing to RVOT_FS even in the presence of reduced RV systolic function [ , ].
+Abnormality threshold
+ASE and EACVI 2015 recommendations as well as previous recommendations have not defined any abnormality threshold. In one study, RVOT_FS <30 % was 95 % sensitive and 100 % specific for RV dysfunction diagnosis [ ]. RVOT_FS <24.3 % has 100 % sensitivity and 95.56 % specificity for acute pulmonary embolism diagnosis [ ]. RVOT-FS <20 % might be useful to predict adverse outcomes in chronic heart failure [ ].
+Recommendations
+There are no recommendations regarding RVOT_FS.
+RVOT_SE
+RVOT_SE is defined as the systolic excursion of the RVOT anterior wall endocardium using M-mode echocardiography from the parasternal short-axis view at the level of the aortic valve [ ]. RVOT_SE is a new method described for the first time in 2012.
+Advantages
+RVOT_SE is easy to measure.
+Limitations
+RVOT_SE is new and data are limited. Like RVOT_FS, significant inaccuracies could result when measuring RVOT_SE using an oblique plane.
+Abnormality threshold
+ASE and EACVI 2015 recommendations do not mention RVOT_SE. One study found RVOT_SE <5.4 mm had a sensitivity of 98 % and specificity of 96 % for diagnosing RV dysfunction [ ]. Another study found RVOT_SE <6 mm had a sensitivity and specificity of 100 % [ ].
+Recommendations
+There are no recommendations regarding RVOT_SE.
+Color-coded RV S′
+Color-coded RV S′ is analyzed offline by placing the region of interest in the segment to be interrogated. Specific software then generates velocity profiles over the cardiac cycle.
+Color-coded tissue Doppler produces lower velocities (approximately 25 % lower) than pulsed Doppler velocities, because the encoded data represent mean velocities; this is why color-coded RV S′ normal value is less than pulsed Doppler RV S′ [ ].
+Advantages
+Offline analysis allows multisite sampling on the same beat.
+Limitations
+Color-coded RV S′, like RV S′, is angle-dependent and not fully representative of RV global function. It requires offline analysis and it is not available on all ultrasound equipment.
+Abnormality threshold
+Color-coded RV S′ <6 cm/s is suggestive of RV systolic dysfunction [ ].
+Recommendations
+Color-coded RV S′ remains a research tool, with less data and wider confidence intervals for normal values [ ].
+RV 2D EF
+RV 2D EF is calculated by the formula: 100 × (end diastolic volume − end systolic volume)/end diastolic volume. Methods used to calculate RV volumes using two-dimensional (2D) techniques are mainly area−length method, where pyramid or ellipsoid volume formulas are used, and disk summation method [ ].
+Limitations
+RV 2D EF is affected by poor acoustic images. RV 2D-derived volumes are underestimated because of the exclusion of RVOT and the technical limitations of echocardiographic images. They are also inferior in comparison with 3D-derived volumes [ ].
+Abnormality threshold
+ASE and EACVI 2015 recommendations do not mention RV 2D EF; however, previous recommendations defined the lower reference limit of RV 2D EF as 44 %, with a 95 % confidence interval of 38–50 % [ ].
+Recommendations
+RV 2D EF is not recommended because of the heterogeneity of methods and the numerous geometric assumptions [ ].
+RV IVA
+RV IVA is calculated by the formula: myocardial peak isovolumic velocity/acceleration time to peak isovolumic velocity (RV IVA = IVV/AT). It can be measured using pulsed wave tissue Doppler or color-coded tissue Doppler at the lateral tricuspid annulus or at basal septal segment. Like color-coded RV S′, color-coded tissue Doppler RV IVA values are approximately 20 % lower than pulsed-wave tissue Doppler values [ ].
+Advantages
+RV IVA seems to be less load-dependent than ejection period indices [ , ], and has been shown to correlate with illness severity in many conditions that affect RV like obstructive sleep apnea [ ] and mitral stenosis [ ].
+Limitations
+Data regarding RV IVA are limited. It is an angle-dependent Doppler measurement and appears to vary with age and heart rate.
+Abnormality threshold
+ASE and EACVI 2015 recommendations do not mention RV IVA; however, previous guidelines mentioned that no reference value can be recommended because of the broad confidence interval around its lower reference limit. Pooled data from 10 studies suggested that the lower reference limit by pulsed-wave Doppler tissue imaging is 2.2 m/s 2 [ ].
+Recommendations
+RV IVA is not recommended as a screening parameter for RV systolic function by the general echocardiography laboratory population. In studies in patients with conditions affected by RV function, RV IVA may be used and it should be measured at the lateral tricuspid annulus.
+RV strain and strain rate
+Longitudinal strain is calculated as the percentage of systolic shortening of the RV free wall from base to apex, while longitudinal strain rate is the rate of this shortening over time. Doppler tissue imaging in the apical four-chamber view, which is the usual view, is used with the sample at the basal, mid, and apical segments of the RV free wall. Values for strain and strain rate are then derived by offline analysis.
+2D strain is calculated as a percentage of systolic shortening of the whole RV (relative length change of the RV myocardium between end diastole and end systole). This new method uses frame by frame tracking of unique speckles in the myocardium (speckle-tracking echocardiography) [ ].
+Advantages
+Tissue Doppler strain is angle-dependent, while 2D strain is not. 2D strain can measure regional and global RV function.
+Limitations
+Data regarding normal values of RV strain and strain rate are limited. There is a need for excellent image quality when calculating 2D strain by speckle-tracking echocardiography [ ].
+Abnormality threshold
+ASE and EACVI 2015 recommendations mentioned that no definite reference ranges are currently recommended for either global or regional RV strain or strain rate because of the need for additional data. Pooled data (though heavily weighted by a single vendor) suggest that global longitudinal RV free wall strain ≥20 % (i.e., <20 % in absolute value) is likely abnormal [ ].
+Recommendations
+2D strain by speckle-tracking echocardiography, particularly of the RV free wall, appears to be reproducible and feasible for clinical use [ ].
+Table 1 summarizes the advantages, limitations and abnormality thresholds of RV systolic function evaluation methods. Table 1 Summary of RV systolic function evaluation methods Echocardiographic methods Abnormality threshold Advantages Limitations Standard methods FAC <35 % Reflects longitudinal and radial RV contraction Depends on optimal image quality Correlates with MRI RV EF Requires prolonged image analysis Has prognostic value Neglects the contribution of RVOT to systolic function TAPSE <17 mm a Easy to measure Angle-dependent Less dependent on image quality May be load-dependent Not fully representative of RV global function particularly after cardiac surgery Correlates with radionuclide EF Has prognostic value RV S′ <9.5 cm/s a Easy to measure Angle-dependent Correlates with radionuclide EF Not fully representative of RV global function particularly after cardiac surgery Available on all modern ultrasound equipment Has prognostic value Global RV function methods Pulsed Doppler RIMP >0.43 a Avoids the limitations of complex RV geometry Not accurate in elevated RA pressure Not significantly affected by heart rate Requires similar RR intervals Has prognostic value Tissue Doppler RIMP >0.54 a Avoids the limitations of complex RV geometry Not accurate in elevated RA pressure Not significantly affected by heart rate Does not require similar RR intervals RV d p /d t <400 mmHg/s Simple technique Data are limited Avoids the limitations of complex RV geometry Load-dependent Not accurate in severe TR and elevated RA pressure 3D echo derived methods RV 3D EF <45 % a Includes RVOT contribution to overall RV function Load-dependent Depends on optimal image quality Correlates with MRI RV EF May has clinical value after cardiac surgery Requires experience and offline analysis Research methods RVOT_FS Not established Simple technique Data are limited Has prognostic value Significant inaccuracies may result when measuring Affected by left ventricle systolic function RVOT_SE Not established Easy to measure Data are limited Significant inaccuracies may result when measuring Color-coded RV S′ <6 cm/sec Allows multisite sampling on the same beat Angle-dependent Not fully representative of RV global function particularly after cardiac surgery Requires offline analysis Not available on all ultrasound equipment RV 2D EF <44 % Depends on optimal image quality Neglects the contribution of RVOT to systolic function RV IVA Not established Less load-dependent Data are limited Seems to be correlated with illness severity in many conditions that affect RV Angle-dependent RV strain and strain rate Not established 2D strain is not angle-dependent Data are limited Speckle-tracking echocardiography depends on optimal image quality Can measure regional and global RV function RA right atrium, RV right ventricle, RVOT right ventricular outflow tract, FAC fractional area change, TAPSE tricuspid annular plane systolic excursion, RV S′ pulsed tissue Doppler derived S′ wave velocity, RIMP right ventricular index of myocardial performance, EF ejection fraction, RVOT_FS right ventricular outflow tract fractional shortening, RVOT_SE right ventricular outflow tract systolic excursion, IVA isovolumic myocardial acceleration a Abnormality threshold has been changed in ASE and EACVI 2015 recommendations
+Conclusions
+Although there are many echocardiographic methods to evaluate RV systolic function, identifying an accurate and reliable method remains a challenge. Each of these methods has limitations and provides only partial information regarding RV systolic function; therefore, combinations of these methods are recommended for use in daily clinical practice. More studies, particularly using speckle tracking and 3D echocardiography, are needed to evaluate RV systolic function.

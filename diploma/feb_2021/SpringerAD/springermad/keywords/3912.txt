@@ -1,0 +1,5 @@
+Pharmacokinetic/pharmacodynamic (PK/PD) modeling
+Pharmacokinetics
+Physiologically based pharmacokinetic (PBPK) modeling
+Toxicokinetics
+Cardiac safety

@@ -1,0 +1,1 @@
+Correction of motion has become feasible on cadmium-zinc-telluride (CZT)-based SPECT cameras during myocardial perfusion imaging (MPI). Our aim was to quantify the motion and to determine the value of automatic correction using commercially available software.

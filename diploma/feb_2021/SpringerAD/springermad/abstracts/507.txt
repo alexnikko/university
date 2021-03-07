@@ -1,0 +1,1 @@
+In vivo cardiac diffusion tensor imaging (cDTI) is uniquely capable of interrogating laminar myocardial dynamics non-invasively. A comprehensive dataset of quantative parameters and comparison with subject anthropometrics is required.

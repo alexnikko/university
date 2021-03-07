@@ -1,0 +1,1 @@
+Assessment of qualitative or subjective image quality in radiology is traditionally performed using a fixed-point scale even though reproducibility has proved challenging.

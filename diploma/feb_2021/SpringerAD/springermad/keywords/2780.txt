@@ -1,0 +1,5 @@
+Breast complaints
+Painful mass
+Painless mass
+Sensitivity
+Specificity

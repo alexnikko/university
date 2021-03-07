@@ -1,0 +1,5 @@
+skin sonoporation
+transdermal
+ultrasound
+cavitation
+temperature

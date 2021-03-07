@@ -1,0 +1,5 @@
+Phase Margin
+Reflex Modulation
+Reflex Gain
+Intrinsic Stiffness
+Reflexive Model

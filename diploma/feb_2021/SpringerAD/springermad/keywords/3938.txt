@@ -1,0 +1,5 @@
+Postoperative pain
+Analgesics
+Repeated time-to-event modeling
+Clinical trial simulation
+Monte Carlo Mapped Power

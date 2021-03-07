@@ -1,0 +1,5 @@
+C. psittaci
+Plasmid protein
+CPSIT_p7
+Protective immunity
+CD4+ T cells

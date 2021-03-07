@@ -1,0 +1,10 @@
+Prosthetics
+Electromyography
+Support vector machines
+Internal model
+Motor learning
+Performance
+Muscles
+Real-time systems
+Augmented feedback
+Sensory feedback

@@ -1,0 +1,1 @@
+A new approach was proposed to model the extraction kinetics according to the operating parameters. This approach is based on the determination of the critical time tc (a characteristic time which depends on the operating parameters).

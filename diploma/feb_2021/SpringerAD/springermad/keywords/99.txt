@@ -1,0 +1,7 @@
+82Rb-PET/CT
+positron emission tomography/computed tomography
+ischemic heart disease
+myocardial perfusion
+remote ischemic conditioning
+ischemic preconditioning
+microRNA-144

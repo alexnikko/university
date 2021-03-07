@@ -1,0 +1,5 @@
+Radiotherapy
+Chemo-radiotherapy
+Gastric cancer
+Bleeding
+Obstruction

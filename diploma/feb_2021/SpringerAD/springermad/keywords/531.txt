@@ -1,0 +1,5 @@
+Cardiovascular Magnetic Resonance
+Scanner Type
+Regurgitant Fraction
+Velocity Encode
+Temporal Interpolation

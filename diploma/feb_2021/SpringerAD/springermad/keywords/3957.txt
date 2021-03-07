@@ -1,0 +1,6 @@
+Optimal design
+Fisher information matrix
+Full FIM
+Block-diagonal FIM
+FO
+FOCE

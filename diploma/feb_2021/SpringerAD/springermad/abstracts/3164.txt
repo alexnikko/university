@@ -1,0 +1,1 @@
+Demonstrate the use of a knowledge management and data curation (KProMS) system to support a collaborative research project involving the generation of extensive critical product quality data and the investigation of alternative statistical sampling/analysis strategies for product release.

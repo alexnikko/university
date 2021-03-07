@@ -1,0 +1,5 @@
+apparent solubility
+apparent permeability coefficient
+Caco-2 cell monolayer
+amorphous solid dispersion
+dendrimer-like biopolymer

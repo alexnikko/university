@@ -1,0 +1,1 @@
+To evaluate predictive factors of recurrent biliary obstruction (RBO) following percutaneous uncovered metal stent placement for unresectable distal malignant biliary obstruction (MBO) by using a competing risk model.

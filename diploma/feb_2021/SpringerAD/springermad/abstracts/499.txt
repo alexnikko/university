@@ -1,0 +1,1 @@
+Volumetric black-blood cardiovascular magnetic resonance (CMR) has been hampered by long scan times and flow sensitivity. The purpose of this study was to assess the feasibility of black-blood, electrocardiogram (ECG)-triggered and respiratory-navigated 3D fast spin echo (3D FSE) for the visualization of the whole heart and great vessels.

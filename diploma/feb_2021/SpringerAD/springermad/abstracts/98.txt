@@ -1,0 +1,1 @@
+The NET, encoded by SLC6A2, is responsible for presynaptic NE-reuptake. 123I-mIBG is clinically used to evaluate cardiac sympathetic function. However, it is unknown if polymorphism of SLC6A2 influences cardiac sympathetic activity as assessed with 123I-mIBG. Therefore we studied the influence of SLC6A2 SNPs on myocardial 123I-mIBG parameters in CHF.

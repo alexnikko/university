@@ -1,0 +1,5 @@
+Thermoelectric Material
+Energy Harvesting
+Gait Cycle
+Joint Torque
+Metabolic Cost

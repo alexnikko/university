@@ -1,0 +1,24 @@
+Chronic obstructive pulmonary disease (COPD) is a chronic obstructive
+disease of the airways. An exacerbation of COPD is defined as shortness of breath,
+cough, and sputum production. New therapies for COPD exacerbations are examined in
+clinical trials frequently based on the number of exacerbations that implies
+long-term study due to the high variability in occurrence and duration of the
+events. In this work, we expanded the two-state model developed by Cook et al. where
+the patient transits from an asymptomatic (state 1) to a symptomatic state (state 2)
+and vice versa, through investigating different semi-Markov models in a Bayesian
+context using data from actual clinical trials. Of the four models tested, the
+log-logistic model was shown to adequately characterize the duration and number of
+COPD exacerbations. The patient disease stage was found a significant covariate with
+an effect of accelerating the transition from asymptomatic to symptomatic state. In
+addition, the best dropout model (log-logistic) was incorporated in the final
+two-state model to describe the dropout mechanism. Simulation based diagnostics such
+as posterior predictive check (PPC) and visual predictive check (VPC) were used to
+assess the behaviour of the model. The final model was applied in three clinical
+trial data to investigate its ability to detect the drug effect: the drug effect was
+captured in all three datasets and in both directions (from state 1 to state 2 and
+vice versa). A practical design investigation was also carried out and showed the
+limits of reducing the number of subjects and study length on the drug effect
+identification. Finally, clinical trial simulation confirmed that the model can
+potentially be used to predict medium term (6–12 months) clinical trial outcome
+using the first 3 months data, but at the expense of showing a non-significant drug
+effect.

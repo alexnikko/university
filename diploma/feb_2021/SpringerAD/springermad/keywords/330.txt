@@ -1,0 +1,5 @@
+Enoxaparin
+Medical Patient
+Fondaparinux
+Dalteparin
+Congestive Heart Failure Patient

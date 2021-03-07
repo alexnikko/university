@@ -1,0 +1,8 @@
+Wearable sensors
+Accelerometer
+Plantar pressure
+Fall risk
+Older adults
+Prediction
+Faller classification
+Feature selection

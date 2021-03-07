@@ -1,0 +1,5 @@
+Receiver Operating Characteristic Curve
+Oral Cancer
+Mean Fluorescence Intensity
+Oral Lesion
+Oral Submucous Fibrosis

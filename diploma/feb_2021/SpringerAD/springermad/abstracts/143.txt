@@ -1,0 +1,1 @@
+The impact of adopting new single photon emission computed tomography (SPECT) cameras and new reconstruction algorithms on left ventricular (LV) volumes has not been well established. We sought to understand the impact of hardware and software changes on normal LV reference ranges.

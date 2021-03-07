@@ -1,0 +1,6 @@
+Nonlinear ordinary differential equations
+Recursive systems
+Iterative linearization
+Analytical approximations
+Matrix exponential solution
+Proper lumping

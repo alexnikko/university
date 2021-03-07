@@ -1,0 +1,5 @@
+factor mode effect analysis
+Taguchi screening design
+Box-Behnken design
+pharmacokinetic study
+bioavailability enhancement

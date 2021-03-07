@@ -1,0 +1,1 @@
+The experimental objective of this research was to develop and validate a mechanical device that can generate lifelike fluidic pharmacokinetic (PK) profiles for any chemical compound based on preset parameters. The device is intended to “copy” the PK profile of a compound for teaching and research purposes.

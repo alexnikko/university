@@ -1,0 +1,1 @@
+ Gawande et al. developed a simple intraoperative score (surgical Apgar score based on estimated blood loss, lowest mean arterial pressure and lowest heart rate) to identify patients at higher risk of postoperative complications. We attempted to validate this score in subset of patients undergoing surgery for gynecological malignancies at a tertiary care center.

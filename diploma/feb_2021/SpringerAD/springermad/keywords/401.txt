@@ -1,0 +1,5 @@
+Electronic Medical Record
+Blood Pressure Control
+Hispanic Patient
+Uncontrolled Blood Pressure
+Therapy Intensification

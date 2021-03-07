@@ -1,0 +1,5 @@
+Myocardial perfusion imaging (MPI)
+cadmium-zinc-telluride (CZT)
+patient motion
+respiratory motion
+motion correction

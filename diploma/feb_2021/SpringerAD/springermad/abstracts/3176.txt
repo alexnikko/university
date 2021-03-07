@@ -1,0 +1,1 @@
+Computational fluid dynamics (CFD) simulation was performed to predict deposition behavior of the dry powder inhaler (DPI) formulation in a pulmonary airway model. A synergistic study on CFD simulation and sample preparation with highly branched cyclic dextrin (HBCD) as an excipient matrix for dry powder inhaler formulations of tranilast (TL) were performed.

@@ -1,0 +1,5 @@
+Attenuation and scatter correction
+PET/CT imaging
+instrumentation: PET
+radionuclides
+image quality
