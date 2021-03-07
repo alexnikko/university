@@ -1,0 +1,6 @@
+QT/RR adaptation
+QT/RR hysteresis
+QTc interval
+Heart rate correction
+PK/PD modeling
+Statistical simulation

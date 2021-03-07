@@ -1,0 +1,6 @@
+CoMFA
+CoMSIA
+Molecular docking
+PIM2
+Drug design
+5-(1H-indol-5-yl)-1,3,4-thiadiazol

@@ -1,0 +1,5 @@
+Gait Speed
+Gait Pattern
+Stride Time
+Swing Time
+Silhouette Coefficient

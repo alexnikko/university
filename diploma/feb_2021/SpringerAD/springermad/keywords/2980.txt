@@ -1,0 +1,7 @@
+Acquisition train length
+Brain
+K-space
+Magnetic resonance imaging
+Magnetization-prepared rapid gradient echo sequence
+Neonates
+Optimization

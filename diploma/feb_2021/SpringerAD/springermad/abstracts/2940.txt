@@ -1,0 +1,1 @@
+Liver Imaging Reporting and Data System (LI-RADS) has standardized the evaluation of hepatic lesions in adults at risk of developing hepatocellular carcinoma (HCC). There is no accepted imaging algorithm for diagnosing HCC in the pediatric population.

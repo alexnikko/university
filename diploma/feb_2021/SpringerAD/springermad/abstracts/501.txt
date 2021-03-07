@@ -1,0 +1,1 @@
+Local aortic pulse wave velocity (PWV) is a measure for vascular stiffness and has a predictive value for cardiovascular events. Ultra high field CMR scanners allow the quantification of local PWV in mice, however these systems are yet unable to monitor the distribution of local elasticities.

@@ -1,0 +1,8 @@
+2D cultures
+3D cultures
+Co-cultures
+Tumor microenvironment
+Natural matrices
+Synthetic matrices
+Engineered microfluidic platforms
+Preclinical screens

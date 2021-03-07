@@ -1,0 +1,1 @@
+Gamma-cameras, with Cadmium-Zinc-Telluride (CZT) detectors, allow to perform myocardial perfusion imaging (MPI) with limited injected activities and recorded times. This study aimed at determining whether the routine assessment of left ventricular (LV) function with such limited counts protocols compares well with reference values from cardiac MRI.

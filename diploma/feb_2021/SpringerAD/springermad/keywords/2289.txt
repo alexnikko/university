@@ -1,0 +1,10 @@
+Stroke
+Mean platelet volume
+Platelet count
+Factor II g.20210G>A
+Factor V Leiden
+MTHFR (C677T, A1298C)
+PAI-1
+β-Fibrinogen
+Factor XIIIA (V34L)
+Glycoprotein IIIa (L33P)

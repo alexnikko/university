@@ -1,0 +1,1 @@
+Neurodegenerative diseases share common pathologic features including neuroinflammation, mitochondrial dysfunction and protein aggregation, suggesting common underlying mechanisms of neurodegeneration. We undertook a meta-analysis of public gene expression data for neurodegenerative diseases to identify a common transcriptional signature of neurodegeneration.

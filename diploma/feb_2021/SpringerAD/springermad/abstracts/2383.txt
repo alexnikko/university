@@ -1,0 +1,1 @@
+Powered lower limb prostheses could be more functional if they had access to feedforward control signals from the user’s nervous system. Myoelectric signals are one potential control source. The purpose of this study was to determine if muscle activation signals could be recorded from residual lower limb muscles within the prosthetic socket-limb interface during walking.

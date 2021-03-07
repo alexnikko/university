@@ -1,0 +1,5 @@
+Attention-deficit/hyperactivity disorder (ADHD)
+DRD3
+Pharmaco-dynamic
+RDoC
+RCT

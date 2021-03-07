@@ -1,0 +1,5 @@
+Stroke
+Locomotion
+Electromyography
+EMG assessment
+Muscle activation patterns

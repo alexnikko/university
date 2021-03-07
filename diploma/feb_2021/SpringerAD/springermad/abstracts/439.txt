@@ -1,0 +1,1 @@
+The wideband external pulse (WEP) recorded during blood pressure measurement reveals three components (K1, K2, K3). K1 is recorded with cuff pressure (CP) above systolic (SP).

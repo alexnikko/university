@@ -1,0 +1,5 @@
+Hypertension
+Stroke
+Myocardial infarction
+Mortality
+Taiwan National Health Insurance Research database

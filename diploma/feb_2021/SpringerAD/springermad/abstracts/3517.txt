@@ -1,0 +1,1 @@
+G protein-coupled receptors (GPCRs) are a superfamily of membrane proteins of vast pharmaceutical interest. Here, we describe a graph theory-based analysis of the structure of the β2 adrenergic receptor (β2 AR), a prototypical GPCR. In particular, we illustrate the network of direct and indirect interactions that link each amino acid residue to any other residue of the receptor.

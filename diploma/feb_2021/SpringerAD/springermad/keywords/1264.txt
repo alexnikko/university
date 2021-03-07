@@ -1,0 +1,6 @@
+Lung cancer
+Survival
+Hazard ratio
+Non-small cell lung cancer
+LATS1
+LATS2

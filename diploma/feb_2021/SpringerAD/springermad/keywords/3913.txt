@@ -1,0 +1,6 @@
+Physiologically-based pharmacokinetic model
+Pharmacodynamics
+Gemcitabine
+Birinapant
+Drug combination
+Pancreatic cancer xenografts

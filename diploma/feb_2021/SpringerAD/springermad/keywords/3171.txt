@@ -1,0 +1,5 @@
+Manufacturing
+Intermediates specification
+Process capability
+Impurity
+Neural network

@@ -1,0 +1,5 @@
+tablet film coating and drying
+thermodynamic balance model
+evaporation and penetration
+parameter estimation
+sensitivity analysis

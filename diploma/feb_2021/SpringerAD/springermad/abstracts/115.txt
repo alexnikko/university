@@ -1,0 +1,1 @@
+The purpose of this study is to develop a right-ventricular (RV) phase analysis tool which when coupled with our left ventricular (LV) phase analysis tool can provide measurement of the interventricular mechanical dyssynchrony from gated SPECT myocardial perfusion imaging (MPI), and validate the tool by electrocardiography (ECG).

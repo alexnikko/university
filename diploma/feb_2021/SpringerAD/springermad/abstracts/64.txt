@@ -1,0 +1,1 @@
+In cardiac SPECT perfusion imaging, respiratory motion can cause non-uniform blurring in the reconstructed myocardium. We investigate the potential benefit of respiratory correction with respiratory-binned acquisitions, both at standard dose and at reduced dose, for defect detection and for left ventricular (LV) wall resolution.

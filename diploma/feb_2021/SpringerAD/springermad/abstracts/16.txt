@@ -1,0 +1,1 @@
+Precise stent deployment is important for successful treatment of intracranial aneurysms by stent-assisted coiling (SAC). We evaluated the accuracy of virtual stents generated using commercial stent planning software by comparing the length of virtual and actually deployed intracranial laser cut stents on three-dimensional digital subtraction angiography (3D-DSA) images.

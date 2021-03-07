@@ -1,0 +1,1 @@
+It has been suggested that, in late gadolinium enhancement, the signal of right ventricular myocardium is nulled at a shorter inversion time than the left. While we initially made the same observation, we believe that the difference is not real, but results from artifacts.

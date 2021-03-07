@@ -1,0 +1,7 @@
+Closed-loop prosthesis control
+Myoelectric prosthesis
+EMG biofeedback
+Sensory feedback
+Routine grasping
+Force steering
+Grasping consistency

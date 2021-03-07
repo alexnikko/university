@@ -1,0 +1,4 @@
+Concentration-QTc model
+ICH E14
+Thorough QT (TQT) study
+Pharmacokinetics/pharmacodynamics

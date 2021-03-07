@@ -1,0 +1,5 @@
+ADMET
+Molecular docking
+ASD
+MDR
+Dysentery

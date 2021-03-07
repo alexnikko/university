@@ -1,0 +1,8 @@
+Calculated panel reactive antibody (cPRA)
+β2-microglobulin
+FcMonoIgG
+Heavy chain
+Human leukocyte antigen
+IgHPolyFab: MFI: mean fluorescent intensity (MFI)
+Single antigen bead assays (SAB)
+Denatured antigen

@@ -1,0 +1,4 @@
+B16 melanoma
+Immunotype
+Vascular density
+Immune-cell density

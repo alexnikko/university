@@ -1,0 +1,9 @@
+Arthroplasty
+Bleeding
+Enoxaparin
+Dabigatran
+Deep vein thrombosis
+Mortality
+Prophylaxis
+Pulmonary embolism
+Venous thromboembolism

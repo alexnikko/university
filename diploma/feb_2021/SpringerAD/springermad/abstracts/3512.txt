@@ -1,0 +1,1 @@
+Plasma albumin, a biomarker for hepatic function, is reported to correspondingly decrease in concentration as disease severity increases in chronic infections including HIV and TB. Our objective was to develop a semi-mechanistic disease progression model to quantify plasma albumin concentration changes during TB and HIV therapy and identify the associated covariate factors.

@@ -1,0 +1,5 @@
+Central composite design
+Gel
+Monte Carlo simulation
+Optimization
+Quality by design

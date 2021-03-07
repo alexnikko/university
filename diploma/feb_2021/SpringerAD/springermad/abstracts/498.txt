@@ -1,0 +1,1 @@
+Dark rim artifacts in first-pass cardiovascular magnetic resonance (CMR) perfusion images can mimic perfusion defects and affect diagnostic accuracy for coronary artery disease (CAD). We evaluated whether quantitative myocardial blood flow (MBF) can differentiate dark rim artifacts from true perfusion defects in CMR perfusion.

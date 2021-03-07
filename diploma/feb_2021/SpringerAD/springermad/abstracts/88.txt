@@ -1,0 +1,1 @@
+Respiratory motion (RM) complicates the analysis of myocardial perfusion (MP) single-photon emission computed tomography (SPECT) images. The effects of RM on left ventricular (LV) functional variables have not been thoroughly investigated.

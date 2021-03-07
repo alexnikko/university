@@ -1,0 +1,7 @@
+Animal models
+Ataxia
+Cerebellum
+Cerebellar degeneration
+Neurodegeneration
+Purkinje cells
+SCA models

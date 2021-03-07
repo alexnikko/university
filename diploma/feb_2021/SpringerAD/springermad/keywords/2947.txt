@@ -1,0 +1,6 @@
+Children
+Computed tomography
+Magnetic resonance imaging
+Malignancy
+Oncology
+Paraneoplastic syndrome

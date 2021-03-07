@@ -1,0 +1,1 @@
+Attenuation correction using segmentation of scatter and photo-peak window data (SSPAC) enables an evaluation of the attenuation map in a patient-specific manner without additional radiation exposure. We compared the accuracy of SSPAC and non-corrected myocardial perfusion scintigraphy methods for diagnosing the number of stenosed coronary artery vessels.

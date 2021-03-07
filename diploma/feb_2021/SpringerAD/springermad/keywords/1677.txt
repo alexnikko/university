@@ -1,0 +1,8 @@
+Schizophrenia
+Default mode network
+Task-negative network
+Task-positive network
+Antipsychotics
+Resting state
+fMRI
+DTI
